@@ -1,0 +1,5 @@
+# How to use the Lightsail DNS Zone with an Amazon Route 53-managed domain name
+
+If you have bought your domain name with Amazon Route 53 and want to use the Lightsail-provided DNS Zone (as found in the tutorial XXX) follow these steps
+
+Click on the DNS
